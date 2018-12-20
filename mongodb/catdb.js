@@ -38,6 +38,8 @@ dbController.getCollections = (req, res, next) => {
   console.log(arr);
 }
 
+
+//delete later
   // dbController.getCollections = (req, res, next) => {
   //   MongoClient.connect(url, (err, client) => {
   //     if(err) throw err;

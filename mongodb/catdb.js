@@ -39,7 +39,7 @@ dbController.getCollections = (req, res, next) => {
 }
 
 
-//delete later
+//delete later, update later
   // dbController.getCollections = (req, res, next) => {
   //   MongoClient.connect(url, (err, client) => {
   //     if(err) throw err;
